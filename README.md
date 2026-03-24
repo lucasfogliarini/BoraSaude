@@ -4,7 +4,5 @@ Com foco na promoção do cuidado integral, o Bora Health busca fortalecer a con
 
 O projeto é desenvolvido pela [__Bora Earth__](https://bora.earth/), um ecossistema colaborativo formado por parceiros que atuam de maneira integrada com arquitetos, construtoras, advogados, mentores e especialistas de diferentes áreas, promovendo soluções e reflexões sobre viver, construir e planejar com propósito.
 
-### [Educação Financeira e de Carreira](https://bora.earth/)  
-
 #### [BoraHealth Diagram (view)](https://s.icepanel.io/5EJNqZk1BJKyQN/314S)
 #### [BoraDomain Landscape (edit)](https://app.icepanel.io/landscapes/v3MTVXKMPjCfg4LaPENe/versions/latest/overview?domain=FdGvSQwOQ6)
